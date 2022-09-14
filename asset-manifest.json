@@ -1,7 +1,7 @@
 {
   "main.css": "/ugc/static/css/main.a18c1c0e.chunk.css",
-  "main.js": "/ugc/static/js/main.86e97e37.chunk.js",
-  "main.js.map": "/ugc/static/js/main.86e97e37.chunk.js.map",
+  "main.js": "/ugc/static/js/main.9bc96278.chunk.js",
+  "main.js.map": "/ugc/static/js/main.9bc96278.chunk.js.map",
   "static/js/1.2d0620ce.chunk.js": "/ugc/static/js/1.2d0620ce.chunk.js",
   "static/js/1.2d0620ce.chunk.js.map": "/ugc/static/js/1.2d0620ce.chunk.js.map",
   "static/css/2.e9effa32.chunk.css": "/ugc/static/css/2.e9effa32.chunk.css",
@@ -10,9 +10,9 @@
   "runtime~main.js": "/ugc/static/js/runtime~main.7bbe8ac9.js",
   "runtime~main.js.map": "/ugc/static/js/runtime~main.7bbe8ac9.js.map",
   "static/media/UCSClogo.png": "/ugc/static/media/UCSClogo.a41799ca.png",
-  "static/css/2.e9effa32.chunk.css.map": "/ugc/static/css/2.e9effa32.chunk.css.map",
   "static/css/main.a18c1c0e.chunk.css.map": "/ugc/static/css/main.a18c1c0e.chunk.css.map",
+  "static/css/2.e9effa32.chunk.css.map": "/ugc/static/css/2.e9effa32.chunk.css.map",
   "index.html": "/ugc/index.html",
-  "precache-manifest.3a0797ad878e705dedeafbd7e6ab3cd0.js": "/ugc/precache-manifest.3a0797ad878e705dedeafbd7e6ab3cd0.js",
+  "precache-manifest.456ee6023df9f843cf301e2d6eb56af9.js": "/ugc/precache-manifest.456ee6023df9f843cf301e2d6eb56af9.js",
   "service-worker.js": "/ugc/service-worker.js"
 }

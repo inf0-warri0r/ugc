@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9bc962782c6325765320",
+    "revision": "945b6a9e6e1cff10f630",
     "url": "/ugc/static/css/main.a18c1c0e.chunk.css"
   },
   {
-    "revision": "9bc962782c6325765320",
-    "url": "/ugc/static/js/main.9bc96278.chunk.js"
+    "revision": "945b6a9e6e1cff10f630",
+    "url": "/ugc/static/js/main.945b6a9e.chunk.js"
   },
   {
     "revision": "2d0620cea52edf1fd600",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/ugc/static/media/UCSClogo.a41799ca.png"
   },
   {
-    "revision": "80d6e7e7a5df4b9b492047a5eb89a08b",
+    "revision": "b0396ab34f9f4498b705c748f2d13c0f",
     "url": "/ugc/index.html"
   }
 ];
